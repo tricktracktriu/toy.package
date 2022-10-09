@@ -36,3 +36,6 @@ rename_files()
 use_readme_rmd()
 build_readme()  # for rendering
 
+check()
+install()
+
