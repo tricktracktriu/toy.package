@@ -33,5 +33,6 @@ use_package("stringr")
 #Introduce a bit of argument checking and edge case handling.
 rename_files()
 
-
+use_readme_rmd()
+build_readme()  # for rendering
 
